@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "home": "Home",
+    "prices": "Prices",
+    "contact": "Contact Sales",
+    "track": "Track shipment",
+    "signin": "Sign in",
+    "news": "News",
+    "lang": "Language",
+    "settings": "settings",
+    "light": "Light Mode",
+    "dark1": "Dark Mode",
+    "dark2": "Dark Mode (2)"
+  },
+  "progress": {
+    "number": "Shipment number",
+    "status": " Shipment has been cancelled",
+    "update": "Latest update",
+    "day": "Mon",
+    "seller": "Seller",
+    "date": "Arrival date",
+    "date2": "Jan 3 2022"
+  },
+  "progressbar": {
+    "placed": "Shipment has been placed",
+    "sold": "Received from seller",
+    "out": "Out for delivery",
+    "received": "Shipment received"
+  },
+  "table": {
+    "branch": "Branch",
+    "date": "Date",
+    "time": "Time",
+    "details": "Details",
+    "nasr": "Nasr City"
+  },
+  "address": {
+    "title": "Shipping Address",
+    "body": "Cairo/ Embaba, Talaat Harb St, Madinet Alomal/ House 17,Block 22"
+  },
+  "issue": {
+    "title": "Problem with you shipment?",
+    "btn": "Report issue"
+  },
+  "home": {
+    "search": "Search News"
+  },
+  "det": {
+    "link": "Shipment Details"
+  }
+}
